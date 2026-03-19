@@ -25,7 +25,7 @@ def chat_with_kimi():
     
     # 存储对话历史
     messages = [
-        {"role": "system", "content": "用最简短的语言回复内容"}
+        {"role": "system", "content": ""}
     ]
     
     while True:
