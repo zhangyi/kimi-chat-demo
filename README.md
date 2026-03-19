@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kimi-K2.5 Chat Applications
 
 基于 AiHubMix API 的 Kimi-K2.5 聊天应用集。
@@ -36,4 +35,3 @@ python hello_v2.0.py
 =======
 # kimi-chat-demo
 快速掌握从对话至任务拆解
->>>>>>> 7f78d585f928f699f9a507f311cb08d964008875
